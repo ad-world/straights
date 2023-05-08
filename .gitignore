@@ -1,0 +1,6 @@
+*.cc
+!main.cc
+*.o
+*.d
+*.pdf
+*.zip
